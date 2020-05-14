@@ -1,3 +1,4 @@
+/*GENERAL CSS*/
 #main{
     background-color: #eeeeee;
     padding-top: 1%;
@@ -63,9 +64,7 @@ footer{
     font-size: 4vmin;
     margin: 3vw 3vw 3vw 3vw;
 }
-
-
-
+/*RESPONSIVE SECTION*/
 @media screen and (max-width:600px){
     footer{
         font-size:3.5vmin;
