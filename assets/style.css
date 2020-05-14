@@ -1,87 +1,82 @@
-#main{
-    background-color: #eeeeee;
-    padding-top: 1%;
-    padding-bottom: 1%;
-    text-align: center;
-    font-family: 'Lato';
-    font-size:medium;
-}
-#title{
-    width: 100px;
-    background-color: blue;
-    display: block;
-    text-align: center;
-    font-family: 'Lato';
-    font-size: 1.5vw;
-}
-#img-div{
-    text-align: center;
-    background-color:white;
-    font-family: 'Lato';
-    font-size: medium;
+body {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-#image{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: auto;
-    width: 75%;
-}
-#img-caption{
-     margin: 2% 5% 5% 5%;
-     text-align: center;
-     font-family: 'Lato';
+#main {
+  background-color: #eee;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  text-align: center;
+  font-size: medium;
 }
 
-#tribute-info{
-    background-color: #eeeeee;
-    max-width: 600px;
-    font-family: 'Lato';
-    font-size: medium;
-
-    margin-top: 4vmin;
-    color: hsl(0, 0%, 31%)
-    }
-
-#tribute-link
-{
-    text-align: center;
-    font-family: 'Lato';
-    color: #74638F;
-}
-#tribute-link:hover
-{
-    text-align: center;
-    font-family: 'Lato';
-    cursor: pointer;
+#title {
+  width: 100px;
+  background-color: blue;
+  display: block;
+  text-align: center;
+  font-size: 1.5vw;
 }
 
-footer{
-    text-align: center;
-    font-family: 'Lato';
-    font-size: 4vmin;
-    margin: 3vw 3vw 3vw 3vw;
+#img-div {
+  text-align: center;
+  background-color: white;
+  font-size: medium;
 }
 
-
-
-@media screen and (max-width:600px){
-    footer{
-        font-size:3.5vmin;
-    }
-    #tribute-link
-    {
-        font-size: 3.5vmin;
-    }
+#image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  width: 75%;
 }
 
-@media screen and (min-width:600px){
-    footer{
-        font-size:2.5vmax;
-    }
-    #tribute-link
-    {
-        font-size: 2.5vmax;
-    }
+#img-caption {
+  margin: 2% 5% 5% 5%;
+  text-align: center;
+}
+
+#tribute-info {
+  background-color: #eee;
+  max-width: 600px;
+  font-size: medium;
+  margin-top: 4vmin;
+  color: hsl(0, 0%, 31%);
+}
+
+#tribute-link {
+  text-align: center;
+  color: #74638f;
+}
+
+#tribute-link:hover {
+  text-align: center;
+  cursor: pointer;
+}
+
+footer {
+  text-align: center;
+  font-size: 4vmin;
+  margin: 3vw 3vw 3vw 3vw;
+}
+
+@media screen and (max-width: 600px) {
+  footer {
+    font-size: 3.5vmin;
+  }
+
+  #tribute-link {
+    font-size: 3.5vmin;
+  }
+}
+
+@media screen and (min-width: 600px) {
+  footer {
+    font-size: 2.5vmax;
+  }
+
+  #tribute-link {
+    font-size: 2.5vmax;
+  }
 }
