@@ -13,7 +13,7 @@ Url: https://codepen.io/freeCodeCamp/full/zNqgVx
 
 ## Live Demo
 
-[Live Demo Link](https://krash46.github.io/JhonJessica/)
+[Live Demo Link](https://jessicafarias.github.io/JhonJessica/)
 
 
 ## Getting Started
@@ -30,7 +30,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Jessica Farias**
 
-- Github: [krash46](https://github.com/krash46)
+- Github: [jessicafarias](https://github.com/jessicafarias)
 - Twitter: [@FariasRosado](https://twitter.com/FariasRosado)
 - Linkedin: [jessica-michelle-farias-rosado](https://www.linkedin.com/in/jessica-michelle-farias-rosado/)
 
